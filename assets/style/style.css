@@ -112,10 +112,10 @@ body{
    
 }   
 
+/* Responsive */
 @media screen and (max-width:375px){
     .product-card{
         flex-direction: column;
-        
     }
 
     .product-card .img-card{
